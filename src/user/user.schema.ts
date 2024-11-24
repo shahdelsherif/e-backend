@@ -1,7 +1,7 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 
-@Schema({ timestamps: true })  // Automatically adds createdAt and updatedAt fields
+@Schema({ timestamps: true })  
 export class user {
   @Prop()
   name: string;
@@ -13,22 +13,21 @@ export class user {
   password: string;
 
   @Prop()
-  role: string;  // 'student', 'instructor', 'admin'
+  role: string; 
 
   @Prop()
-  profilePicture: string;  // Updated to camelCase
+  profilePicture: string;  
+  @Prop()
+  createdAt: Date;  
 
   @Prop()
-  createdAt: Date;  // Optional if timestamps is set to true (NestJS handles this automatically)
-
-  @Prop()
-  updatedAt: Date;  // Optional if timestamps is set to true (NestJS handles this automatically)
+  updatedAt: Date;  
 
   @Prop()
   studentMetrics: {
     completionRate: number;
     averageScore: number;
-    engagementTrends: string[];  // or any other type depending on the data format
+    engagementTrends: string[];  
   };
 }
 export const UserSchema = SchemaFactory.createForClass(user)

@@ -2,19 +2,42 @@ import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { MongooseModule } from '@nestjs/mongoose';
-import { UserModule } from './user/user.module';
+import { JwtModule } from '@nestjs/jwt';
+import { UsersModule } from './users/users.module';
 import { CoursesModule } from './courses/courses.module';
+import { MultimediaModule } from './multimedia/multimedia.module';
 import { QuizzesModule } from './quizzes/quizzes.module';
-import { FormsModule } from './forms/forms.module';
+import { MiddlewareConsumer, NestModule } from '@nestjs/common';
+import { AuthenticateMiddleware } from './middleware/authenticate.middleware';
+import { BackupService } from './backup/backup.service';
+import { ChatsModule } from './chats/chats.module';
+import { ForumsModule } from './forums/forums.module';
 import { NotificationsModule } from './notifications/notifications.module';
-import { ReportModule } from './report/report.module';
-import { ChatModule } from './chat/chat.module';
-import { MultiMediaModule } from './multi-media/multi-media.module';
+import { QuestionnaireModule } from './questionnaire/questionnaire.module';
 
 @Module({
-  imports: [MongooseModule.forRoot(process.env.MONGODB_URI || 'mongodb://localhost:27017/schema'), CoursesModule, QuizzesModule, FormsModule, NotificationsModule, ReportModule, ChatModule, MultiMediaModule,],
-  controllers: [AppController],
-  providers: [AppService],
-})
-export class AppModule {}
+  imports: [ MongooseModule.forRoot('mongodb://localhost:27017/Elearning'),
+    JwtModule.register({
+      secret: process.env.JWT_SECRET || 'kjhkjh#fhfgf@jk',
+      signOptions: { expiresIn: '1h' }, 
+    }),
 
+    UsersModule,
+    CoursesModule,
+    MultimediaModule,
+    QuizzesModule,
+    ChatsModule,
+    ForumsModule,
+    NotificationsModule,
+    QuestionnaireModule,
+  ],
+  controllers: [AppController],
+  providers: [AppService, BackupService],
+ 
+})
+
+export class AppModule implements NestModule {
+  configure(consumer: MiddlewareConsumer) {
+    consumer.apply(AuthenticateMiddleware).forRoutes('*'); // Applies globally
+  }
+}

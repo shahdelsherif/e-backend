@@ -2,20 +2,21 @@ import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Types } from 'mongoose';
 
 @Schema({ timestamps: true })
-export class Notification {
-  @Prop({ type: Types.ObjectId, ref: 'User' })
-  userId: Types.ObjectId;
+export class Notification extends Document {
+  @Prop({ type: Types.ObjectId, ref: 'User', required: true })
+  recipientId: Types.ObjectId;
 
-  @Prop()
-  content: string;
+  @Prop({ required: true })
+  message: string;
 
   @Prop({ default: false })
   isRead: boolean;
 
-  @Prop({ default: Date.now })
-  timestamp: Date;
+  @Prop({ type: Types.ObjectId, ref: 'Forum', required: false })
+  forumId?: Types.ObjectId;
+
+  @Prop({ type: Types.ObjectId, ref: 'Post', required: false })
+  postId?: Types.ObjectId;
 }
 
 export const NotificationSchema = SchemaFactory.createForClass(Notification);
-
-export type NotificationDocument = Notification & Document;

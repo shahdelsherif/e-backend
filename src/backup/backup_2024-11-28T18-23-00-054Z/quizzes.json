@@ -1,0 +1,151 @@
+[
+  {
+    "_id": "6741f2be5b3bda308b6e2964",
+    "courseId": "ObjectId",
+    "title": "String",
+    "type": "String",
+    "questions": [
+      {
+        "question": "String",
+        "options": [
+          "String"
+        ],
+        "correctAnswer": "String"
+      }
+    ],
+    "createdAt": "Date",
+    "updatedAt": "Date"
+  },
+  {
+    "_id": "6744a86ba66934f3abee9528",
+    "courseId": "674320e3b765124e07c4bd01",
+    "title": "Quiz 1",
+    "description": "An MCQ quiz for chapter 1",
+    "questions": [
+      {
+        "question": "What is nNetwork?",
+        "options": [
+          "A filed",
+          "A library",
+          "A tool",
+          "None of the above"
+        ],
+        "correctAnswer": "A framework",
+        "_id": "6744a86ba66934f3abee9529"
+      },
+      {
+        "question": "Which model does internet use?",
+        "options": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Ruby"
+        ],
+        "correctAnswer": "TypeScript",
+        "_id": "6744a86ba66934f3abee952a"
+      }
+    ],
+    "grades": [
+      {
+        "grade": 8.5,
+        "_id": "6744a86ba66934f3abee952b"
+      },
+      {
+        "grade": 5,
+        "_id": "6744a86ba66934f3abee952c"
+      }
+    ],
+    "createdAt": "2024-11-25T16:40:11.051Z",
+    "updatedAt": "2024-11-25T16:40:11.051Z",
+    "__v": 0
+  },
+  {
+    "_id": "6744a94aa66934f3abee952e",
+    "courseId": "674320e3b765124e07c4bd01",
+    "title": "Quiz 1",
+    "description": "An MCQ quiz for chapter 1",
+    "questions": [
+      {
+        "question": "What is nNetwork?",
+        "options": [
+          "A filed",
+          "A library",
+          "A tool",
+          "None of the above"
+        ],
+        "correctAnswer": "A framework",
+        "_id": "6744a94aa66934f3abee952f"
+      },
+      {
+        "question": "Which model does internet use?",
+        "options": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Ruby"
+        ],
+        "correctAnswer": "TypeScript",
+        "_id": "6744a94aa66934f3abee9530"
+      }
+    ],
+    "grades": [
+      {
+        "studentID": 12345,
+        "grade": 8.5,
+        "_id": "6744a94aa66934f3abee9531"
+      },
+      {
+        "grade": 5,
+        "_id": "6744a94aa66934f3abee9532"
+      }
+    ],
+    "createdAt": "2024-11-25T16:43:54.949Z",
+    "updatedAt": "2024-11-25T16:43:54.949Z",
+    "__v": 0
+  },
+  {
+    "_id": "6744a97ca66934f3abee9534",
+    "courseId": "674320e3b765124e07c4bd01",
+    "title": "Quiz 1",
+    "description": "An MCQ quiz for chapter 1",
+    "questions": [
+      {
+        "question": "What is nNetwork?",
+        "options": [
+          "A filed",
+          "A library",
+          "A tool",
+          "None of the above"
+        ],
+        "correctAnswer": "A framework",
+        "_id": "6744a97ca66934f3abee9535"
+      },
+      {
+        "question": "Which model does internet use?",
+        "options": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Ruby"
+        ],
+        "correctAnswer": "TypeScript",
+        "difficulty": 5,
+        "_id": "6744a97ca66934f3abee9536"
+      }
+    ],
+    "grades": [
+      {
+        "studentID": 12345,
+        "grade": 8.5,
+        "_id": "6744a97ca66934f3abee9537"
+      },
+      {
+        "grade": 5,
+        "_id": "6744a97ca66934f3abee9538"
+      }
+    ],
+    "createdAt": "2024-11-25T16:44:44.777Z",
+    "updatedAt": "2024-11-25T16:44:44.777Z",
+    "__v": 0
+  }
+]

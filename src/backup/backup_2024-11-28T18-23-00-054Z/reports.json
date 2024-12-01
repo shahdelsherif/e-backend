@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "6741f5ad5b3bda308b6e2976",
+    "instructorId": "ObjectId",
+    "courseId": "ObjectId",
+    "reportType": "String",
+    "data": "Object",
+    "createdAt": "Date"
+  }
+]

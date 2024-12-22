@@ -1,0 +1,322 @@
+[
+  {
+    "_id": "6766f6e5ab48d7dee91cf525",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T17:12:05.268Z",
+    "__v": 0
+  },
+  {
+    "_id": "676701a88f924069b4963130",
+    "type": "unauthorized-access",
+    "message": "Unauthorized access attempt to API: /logs/unauthorized-access",
+    "email": "::1",
+    "timestamp": "2024-12-21T17:58:00.062Z",
+    "__v": 0
+  },
+  {
+    "_id": "676701cb8f924069b4963132",
+    "type": "unauthorized-access",
+    "message": "Unauthorized access attempt to API: /logs/unauthorized-access",
+    "email": "::1",
+    "timestamp": "2024-12-21T17:58:35.586Z",
+    "__v": 0
+  },
+  {
+    "_id": "676701d28f924069b4963134",
+    "type": "unauthorized-access",
+    "message": "Unauthorized access attempt to API: /logs/unauthorized-access",
+    "email": "::1",
+    "timestamp": "2024-12-21T17:58:42.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "676701fc8f924069b4963136",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: undefined",
+    "email": "hkhjkhjsak@gmail.com",
+    "timestamp": "2024-12-21T17:59:24.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "676702088f924069b4963138",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: undefined",
+    "email": "piqp09@gmail.com",
+    "timestamp": "2024-12-21T17:59:36.650Z",
+    "__v": 0
+  },
+  {
+    "_id": "676707dc8f924069b4963163",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fawzi fawzi",
+    "email": "ff@gmail.com",
+    "timestamp": "2024-12-21T18:24:28.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "676707e08f924069b4963166",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fawzi fawzi",
+    "email": "ff@gmail.com",
+    "timestamp": "2024-12-21T18:24:32.842Z",
+    "__v": 0
+  },
+  {
+    "_id": "676707e58f924069b4963169",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fawzi fawzi",
+    "email": "ff@gmail.com",
+    "timestamp": "2024-12-21T18:24:37.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "676707eb8f924069b496316c",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fawzi fawzi",
+    "email": "ff@gmail.com",
+    "timestamp": "2024-12-21T18:24:43.478Z",
+    "__v": 0
+  },
+  {
+    "_id": "676707fa8f924069b496316f",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:24:58.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "676707fd8f924069b4963172",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:25:01.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767080e8f924069b4963175",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:25:18.332Z",
+    "__v": 0
+  },
+  {
+    "_id": "676708108f924069b4963178",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:25:20.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "676708128f924069b496317b",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:25:22.564Z",
+    "__v": 0
+  },
+  {
+    "_id": "676708328f924069b496317e",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:25:54.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "676708358f924069b4963181",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: khalifa",
+    "email": "kh@gmail.com",
+    "timestamp": "2024-12-21T18:25:57.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767084e8f924069b4963184",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: mohee",
+    "email": "moh@gmail.com",
+    "timestamp": "2024-12-21T18:26:22.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "676709428f924069b4963194",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fawzi fawzi",
+    "email": "ff@gmail.com",
+    "timestamp": "2024-12-21T18:30:26.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "676709458f924069b4963197",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fawzi fawzi",
+    "email": "ff@gmail.com",
+    "timestamp": "2024-12-21T18:30:29.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "67671a48fca0b4a267a9e37f",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: mansour mansour",
+    "email": "man@gmail.com",
+    "timestamp": "2024-12-21T19:43:04.360Z",
+    "__v": 0
+  },
+  {
+    "_id": "67671a4afca0b4a267a9e382",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: mansour mansour",
+    "email": "man@gmail.com",
+    "timestamp": "2024-12-21T19:43:06.781Z",
+    "__v": 0
+  },
+  {
+    "_id": "676723377af68a54912e9eb9",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: mansour mansour",
+    "email": "man@gmail.com",
+    "timestamp": "2024-12-21T20:21:11.619Z",
+    "__v": 0
+  },
+  {
+    "_id": "676723437af68a54912e9ebc",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: mohee",
+    "email": "moh@gmail.com",
+    "timestamp": "2024-12-21T20:21:23.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "676723617af68a54912e9ebf",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fahmy",
+    "email": "fam@gmail.com",
+    "timestamp": "2024-12-21T20:21:53.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "676723627af68a54912e9ec2",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fahmy",
+    "email": "fam@gmail.com",
+    "timestamp": "2024-12-21T20:21:54.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767237d7af68a54912e9ec5",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: fahmy",
+    "email": "fam@gmail.com",
+    "timestamp": "2024-12-21T20:22:21.942Z",
+    "__v": 0
+  },
+  {
+    "_id": "676724666b324376b748c793",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: maher maher",
+    "email": "mam@gmail.com",
+    "timestamp": "2024-12-21T20:26:14.367Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767246d6b324376b748c796",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: maher maher",
+    "email": "mam@gmail.com",
+    "timestamp": "2024-12-21T20:26:21.768Z",
+    "__v": 0
+  },
+  {
+    "_id": "676727df2b7a8be6fea56db3",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: maher maher",
+    "email": "mam@gmail.com",
+    "timestamp": "2024-12-21T20:41:03.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767356c43aa5054f7d290c2",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:38:52.777Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767359243aa5054f7d290c5",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:39:30.660Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767359443aa5054f7d290c8",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:39:32.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767359843aa5054f7d290cb",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:39:36.357Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767359e43aa5054f7d290ce",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:39:42.966Z",
+    "__v": 0
+  },
+  {
+    "_id": "676735a743aa5054f7d290d1",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:39:51.034Z",
+    "__v": 0
+  },
+  {
+    "_id": "676735b643aa5054f7d290d4",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: mansour mansour",
+    "email": "man@gmail.com",
+    "timestamp": "2024-12-21T21:40:06.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "676735bd43aa5054f7d290d7",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:40:13.556Z",
+    "__v": 0
+  },
+  {
+    "_id": "676735bf43aa5054f7d290da",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:40:15.400Z",
+    "__v": 0
+  },
+  {
+    "_id": "676736b36b3e6da3967d3801",
+    "type": "failed-login",
+    "message": "Failed login attempt for user: ali ali",
+    "email": "ali@gmail.com",
+    "timestamp": "2024-12-21T21:44:19.601Z",
+    "__v": 0
+  }
+]

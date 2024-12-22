@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "6762f8b6e8e5ff606e583619",
+    "title": "Introduction to Networking",
+    "description": "Learn the fundamentals of computer networks.",
+    "courseId": "IT111",
+    "instructorId": "6760b12f72434b9aeb92a5c2",
+    "instructorName": "fawzi fawzi",
+    "studentsEnrolled": [
+      "6760908996808e37a055ef8b",
+      "6763325e6fe351ff17b484d4",
+      "6766efece13c2b6c5dcb20a6",
+      "676723a57af68a54912e9ec7",
+      "676709808f924069b496319b"
+    ],
+    "multimediaIds": [
+      "67644ec075595dc362af2ba8",
+      "67644f1975595dc362af2baa",
+      "676714da53e8d72804227157"
+    ],
+    "completed": "false",
+    "createdAt": "2024-12-18T16:30:46.219Z",
+    "updatedAt": "2024-12-21T21:00:34.737Z",
+    "__v": 4,
+    "quizzesIds": [
+      "6765a8511e63cbb9c3ad3b1a",
+      "6765a8741e63cbb9c3ad3b1c",
+      "676723217af68a54912e9eb2"
+    ]
+  },
+  {
+    "_id": "6762f923e8e5ff606e58361b",
+    "title": "Math1",
+    "description": "Introduction To Math1",
+    "courseId": "GN112",
+    "instructorId": "67436373dcf6c8d06a9fce25",
+    "instructorName": "alia ali",
+    "studentsEnrolled": [
+      "6763325e6fe351ff17b484d4"
+    ],
+    "multimediaIds": [],
+    "completed": false,
+    "createdAt": "2024-12-18T16:32:35.307Z",
+    "updatedAt": "2024-12-19T16:29:30.301Z",
+    "__v": 0,
+    "quizzesIds": []
+  },
+  {
+    "_id": "6762f974e8e5ff606e58361d",
+    "title": "Computer Science",
+    "description": "Introduction to Computer Science and binary systems",
+    "courseId": "GN112",
+    "instructorId": "67436482dcf6c8d06a9fce2c",
+    "instructorName": "shahed",
+    "studentsEnrolled": [
+      "6763325e6fe351ff17b484d4"
+    ],
+    "multimediaIds": [],
+    "completed": false,
+    "createdAt": "2024-12-18T16:33:56.015Z",
+    "updatedAt": "2024-12-18T22:57:58.185Z",
+    "__v": 0,
+    "quizzesIds": []
+  },
+  {
+    "_id": "67670d6f349c7f70bd0ab2a3",
+    "title": "machine",
+    "description": "hkhkdh",
+    "courseId": "It342",
+    "instructorId": "676709808f924069b496319b",
+    "instructorName": "fawzi fawzi",
+    "studentsEnrolled": [
+      "6763325e6fe351ff17b484d4"
+    ],
+    "multimediaIds": [],
+    "quizzesIds": [],
+    "completed": "false",
+    "createdAt": "2024-12-21T18:48:15.085Z",
+    "updatedAt": "2024-12-21T19:25:10.688Z",
+    "__v": 0
+  }
+]

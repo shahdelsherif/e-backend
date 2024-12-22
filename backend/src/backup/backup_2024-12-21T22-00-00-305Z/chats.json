@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "6766e575ae4e78adc6ab033a",
+    "chatName": "moh",
+    "participants": [
+      "6766bf309b6d6320bf004e7c",
+      "6763325e6fe351ff17b484d4"
+    ],
+    "isGroupChat": false,
+    "messages": [
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "hi",
+        "timestamp": "2024-12-21T15:57:55.090Z",
+        "_id": "6766e583ae4e78adc6ab033f"
+      },
+      {
+        "senderId": "6766bf309b6d6320bf004e7c",
+        "senderName": "mohee",
+        "message": "hi again",
+        "timestamp": "2024-12-21T16:02:54.203Z",
+        "_id": "6766e6aeae4e78adc6ab036b"
+      },
+      {
+        "senderId": "6766bf309b6d6320bf004e7c",
+        "senderName": "mohee",
+        "message": "hi",
+        "timestamp": "2024-12-21T16:05:04.302Z",
+        "_id": "6766e730ae4e78adc6ab0380"
+      },
+      {
+        "senderId": "6766bf309b6d6320bf004e7c",
+        "senderName": "mohee",
+        "message": "hi",
+        "timestamp": "2024-12-21T16:07:39.476Z",
+        "_id": "6766e7cbae4e78adc6ab03ab"
+      }
+    ],
+    "createdAt": "2024-12-21T15:57:41.464Z",
+    "updatedAt": "2024-12-21T16:07:39.477Z",
+    "__v": 4
+  },
+  {
+    "_id": "6766e98669456878d7f7c9bb",
+    "chatName": "mohee",
+    "participants": [
+      "6766bf309b6d6320bf004e7c",
+      "6763325e6fe351ff17b484d4"
+    ],
+    "isGroupChat": false,
+    "messages": [
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "ji",
+        "timestamp": "2024-12-21T16:15:09.388Z",
+        "_id": "6766e98d69456878d7f7c9c4"
+      },
+      {
+        "senderId": "6766bf309b6d6320bf004e7c",
+        "senderName": "mohee",
+        "message": "hi",
+        "timestamp": "2024-12-21T16:16:11.824Z",
+        "_id": "6766e9cb69456878d7f7ca03"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "hi",
+        "timestamp": "2024-12-21T16:16:59.213Z",
+        "_id": "6766e9fb69456878d7f7ca25"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "jlkjla",
+        "timestamp": "2024-12-21T16:28:03.294Z",
+        "_id": "6766ec9369456878d7f7cf8a"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "iioiuewoi",
+        "timestamp": "2024-12-21T16:28:39.755Z",
+        "_id": "6766ecb769456878d7f7d046"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "uoeuoiu",
+        "timestamp": "2024-12-21T16:29:00.905Z",
+        "_id": "6766eccc69456878d7f7d0ae"
+      }
+    ],
+    "createdAt": "2024-12-21T16:15:02.315Z",
+    "updatedAt": "2024-12-21T16:29:00.908Z",
+    "__v": 6
+  },
+  {
+    "_id": "6766ea1469456878d7f7ca38",
+    "chatName": "ali",
+    "participants": [
+      "6766bf309b6d6320bf004e7c",
+      "6763325e6fe351ff17b484d4"
+    ],
+    "isGroupChat": false,
+    "messages": [
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "hi",
+        "timestamp": "2024-12-21T16:19:16.205Z",
+        "_id": "6766ea8469456878d7f7cb04"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "how are you",
+        "timestamp": "2024-12-21T16:19:44.926Z",
+        "_id": "6766eaa069456878d7f7cb1b"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "ihi",
+        "timestamp": "2024-12-21T16:20:48.555Z",
+        "_id": "6766eae069456878d7f7cb85"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "hi",
+        "timestamp": "2024-12-21T16:22:08.334Z",
+        "_id": "6766eb3069456878d7f7cc10"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "klkjl",
+        "timestamp": "2024-12-21T16:22:28.061Z",
+        "_id": "6766eb4469456878d7f7cc48"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "kklkl",
+        "timestamp": "2024-12-21T16:24:04.053Z",
+        "_id": "6766eba469456878d7f7cced"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "iuouweri",
+        "timestamp": "2024-12-21T16:25:33.475Z",
+        "_id": "6766ebfd69456878d7f7cdc9"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": "iuouweri",
+        "timestamp": "2024-12-21T16:26:21.228Z",
+        "_id": "6766ec2d69456878d7f7ce6a"
+      },
+      {
+        "senderId": "6763325e6fe351ff17b484d4",
+        "senderName": "mansour mansour",
+        "message": ";lkaslk",
+        "timestamp": "2024-12-21T16:26:31.739Z",
+        "_id": "6766ec3769456878d7f7cea6"
+      }
+    ],
+    "createdAt": "2024-12-21T16:17:24.643Z",
+    "updatedAt": "2024-12-21T16:26:31.740Z",
+    "__v": 9
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "_id": "67436373dcf6c8d06a9fce25",
+    "name": "alia ali",
+    "email": "ay7ag@gmail.com",
+    "password": "$2b$10$crwJyiwZ6/8vl4u.70qC2OXvcdSD/PJU4xAdcBKs.MQoec/vb9j5u",
+    "role": "instructor",
+    "ID": 121458,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": "Low"
+    },
+    "enrolledCourses": [],
+    "createdAt": "2024-11-24T17:33:39.502Z",
+    "updatedAt": "2024-11-24T17:33:39.502Z",
+    "__v": 0
+  },
+  {
+    "_id": "67436482dcf6c8d06a9fce2c",
+    "name": "shahed",
+    "email": "shahed@gmail.com",
+    "password": "$2b$10$lKniX42M4scyC1Siwlw3puWyq7BqAo5EGbD5arQ9XaPhO0mt7B65u",
+    "role": "instructor",
+    "ID": 18745,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": "Low"
+    },
+    "enrolledCourses": [],
+    "createdAt": "2024-11-24T17:38:10.994Z",
+    "updatedAt": "2024-11-24T17:38:10.994Z",
+    "__v": 0
+  },
+  {
+    "_id": "6748c19a3d6c3711b3525528",
+    "name": "mahmoud ali",
+    "email": "ay7ag3@gmail.com",
+    "password": "$2b$10$N9ghoqAJdSn9wNanK7S9UuPrqHpkOODnMWCRiCHInybICPf3NkBom",
+    "role": "student",
+    "ID": 12345,
+    "profilePicture": "mah.png",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": "Low"
+    },
+    "enrolledCourses": [
+      "674320e3b765124e07c4bd01",
+      "67434d5b8be75d9a8174ee5c"
+    ],
+    "enrolledCoursesScores": [
+      {
+        "score": 98,
+        "_id": "6748c19a3d6c3711b3525529"
+      }
+    ],
+    "createdAt": "2024-11-28T19:16:42.205Z",
+    "updatedAt": "2024-11-28T19:16:42.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "676088062f58ff9134f517aa",
+    "name": "mohsen mohsen",
+    "email": "ay7aga@gmail.com",
+    "password": "$2b$10$ku/WPvv9F.zKccJoEzFHEOqezyd0izf2jKVwCNhMlp4JJ6Cz7keA2",
+    "role": "student",
+    "ID": 123456,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": ""
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-16T20:05:26.983Z",
+    "updatedAt": "2024-12-16T20:05:26.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "67608be73a031153bfaf7151",
+    "name": "maher maher",
+    "email": "mah@gmail.com",
+    "password": "$2b$10$SZGw2QLi3/SpRWxa3g3dYufoukBMA3lqR5Sh4mWp.ijGR7/Lo5.qy",
+    "role": "student",
+    "ID": 123456,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": ""
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-16T20:21:59.612Z",
+    "updatedAt": "2024-12-16T20:21:59.612Z",
+    "__v": 0
+  },
+  {
+    "_id": "67608f3f2e66f37053bd7929",
+    "name": "maher maher",
+    "email": "mah@gmail.com",
+    "password": "$2b$10$b.G32BV/fB2sbxx34a.AeOzGXcIZQBiNVUQYqnYu7j7sQHsr9HCFW",
+    "role": "student",
+    "ID": 123456,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": ""
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-16T20:36:15.694Z",
+    "updatedAt": "2024-12-16T20:36:15.694Z",
+    "__v": 0
+  },
+  {
+    "_id": "6760b12f72434b9aeb92a5c2",
+    "name": "fawzi fawzi",
+    "email": "ff@gmail.com",
+    "password": "$2b$10$7fhapUO5kUEwSGyNC0am8OC2YLZpVy/1IfO7z0UxnxIgCXCpFIQFy",
+    "role": "instructor",
+    "ID": 1990,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": ""
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-16T23:01:04.013Z",
+    "updatedAt": "2024-12-21T18:30:00.866Z",
+    "__v": 0
+  },
+  {
+    "_id": "6763325e6fe351ff17b484d4",
+    "name": "mansour mansour",
+    "email": "man@gmail.com",
+    "password": "$2b$10$BWFCagGwzr2iJMchuT.93O4MNOu2RqSYrWd/Xud.SULNxcE3ZmwQO",
+    "role": "student",
+    "ID": 20140247,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrends": "Low"
+    },
+    "enrolledCourses": [
+      "6762f8b6e8e5ff606e583619",
+      "6762f974e8e5ff606e58361d",
+      "6762f923e8e5ff606e58361b",
+      "67670d6f349c7f70bd0ab2a3"
+    ],
+    "enrolledCoursesScores": [
+      {
+        "courseId": "IT111",
+        "score": 90
+      },
+      {
+        "courseId": "GN112",
+        "score": 85
+      }
+    ],
+    "createdAt": "2024-12-18T20:36:46.664Z",
+    "updatedAt": "2024-12-21T19:25:10.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6766bf309b6d6320bf004e7c",
+    "name": "mohee",
+    "email": "moh@gmail.com",
+    "password": "$2b$10$Gidni0W2v6bF.Mm/EMOCrexiCvmVHAStT9WPf9AgrW2HtyVYBR9Va",
+    "role": "student",
+    "ID": 20130123,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrend": "Low"
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-21T13:14:24.806Z",
+    "updatedAt": "2024-12-21T13:14:24.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "6766f89797ff78f3ba49b1d8",
+    "name": "ibrahem",
+    "email": "ibra@gmail.com",
+    "password": "$2b$10$qvGbEhPToIZI5ex8Ohy8wehtRSER9j2R28RpB5abesy7ewYrOcWJO",
+    "role": "student",
+    "ID": 20120121,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrend": "Low"
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-21T17:19:19.198Z",
+    "updatedAt": "2024-12-21T17:19:19.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "676708898f924069b4963186",
+    "name": "khalifa",
+    "email": "kha@gmail.com",
+    "password": "$2b$10$9QSviYTPs9m2w7.sldT1de6Zsn/.cRfnlMNWq9.HrL5iKn1XGTVfm",
+    "role": "admin",
+    "ID": 1975,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrend": "Low"
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-21T18:27:21.827Z",
+    "updatedAt": "2024-12-21T21:44:26.376Z",
+    "__v": 0
+  },
+  {
+    "_id": "676709808f924069b496319b",
+    "name": "ali",
+    "email": "ali@gmail.com",
+    "password": "$2b$10$5ORy7zSqObBdXRyQsCEqAOYlp3NyFN9sKMllfrejtAMpsN/7wYf0q",
+    "role": "instructor",
+    "ID": 1995,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrend": "Low"
+    },
+    "enrolledCourses": [
+      "6762f8b6e8e5ff606e583619"
+    ],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-21T18:31:28.541Z",
+    "updatedAt": "2024-12-21T21:45:47.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "676715c2fca0b4a267a9e34b",
+    "name": "fahmy",
+    "email": "fam@gmail.com",
+    "password": "$2b$10$qZYl8OrBFW3idpXitJIKq.Y/YnX1B7A09WFzBa/Nfj5rTDUpMsvZq",
+    "role": "student",
+    "ID": 20130111,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrend": "Low"
+    },
+    "enrolledCourses": [],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-21T19:23:46.489Z",
+    "updatedAt": "2024-12-21T19:34:49.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "676723a57af68a54912e9ec7",
+    "name": "maher maher",
+    "email": "mam@gmail.com",
+    "password": "$2b$10$OLLrlreKI2U2CuVQ0dA4W.fg.tU4U.6i.JE.kFJs/5Gx2otNPGXq2",
+    "role": "student",
+    "ID": 2013000,
+    "profilePicture": "",
+    "studentMetrics": {
+      "completionRate": 0,
+      "averageScore": 0,
+      "engagementTrend": "Low"
+    },
+    "enrolledCourses": [
+      "6762f8b6e8e5ff606e583619"
+    ],
+    "enrolledCoursesScores": [],
+    "createdAt": "2024-12-21T20:23:01.672Z",
+    "updatedAt": "2024-12-21T20:23:45.394Z",
+    "__v": 0
+  }
+]

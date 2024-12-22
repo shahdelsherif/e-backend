@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "6748d3045e33823458cb68d0",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "topic": "Assignment1",
+    "posts": [
+      {
+        "_id": "6748d3dc5e33823458cb68d4",
+        "userId": "6763325e6fe351ff17b484d4",
+        "content": "It this assignemnt mandatory",
+        "timestamp": "2024-11-28T20:34:36.345Z",
+        "replies": [
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "yes of course",
+            "timestamp": "2024-11-28T20:38:43.229Z",
+            "_id": "6748d4d35e33823458cb68d7"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "yes",
+            "timestamp": "2024-11-28T22:58:57.750Z",
+            "_id": "6748f5b157b9a76afbab3fda"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "i think yes",
+            "timestamp": "2024-11-28T23:01:32.063Z",
+            "_id": "6748f64c57b9a76afbab4014"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "i think yes",
+            "timestamp": "2024-11-28T23:11:28.030Z",
+            "_id": "6748f8a0d49ce127e1914bfa"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "i think yes",
+            "timestamp": "2024-11-28T23:15:00.869Z",
+            "_id": "6748f974d49ce127e1914c02"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "i think yes",
+            "timestamp": "2024-11-28T23:15:48.457Z",
+            "_id": "6748f9a41700c9d5757fd651"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "i think yes",
+            "timestamp": "2024-11-28T23:17:46.502Z",
+            "_id": "6748fa1ae58727888ce1f49b"
+          },
+          {
+            "userId": "67436482dcf6c8d06a9fce2c",
+            "content": "i think yes",
+            "timestamp": "2024-11-28T23:19:57.055Z",
+            "_id": "6748fa9de58727888ce1f4a6"
+          },
+          {
+            "userId": "676088062f58ff9134f517aa",
+            "content": "i think may be ",
+            "timestamp": "2024-12-20T21:33:10.974Z",
+            "_id": "6765e2968c7ae184e1c2e23c"
+          }
+        ]
+      },
+      {
+        "_id": "6765f0b3312bb4aebccc85f1",
+        "userId": "676088062f58ff9134f517aa",
+        "content": "do we have any new assignments",
+        "timestamp": "2024-12-20T22:33:23.012Z",
+        "replies": []
+      }
+    ],
+    "createdAt": "2024-11-28T20:31:00.995Z",
+    "updatedAt": "2024-12-20T22:33:23.023Z",
+    "__v": 14
+  },
+  {
+    "_id": "674b327a2e65ef1177ebea1f",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "topic": "Quiz 1",
+    "posts": [
+      {
+        "_id": "674b375281bbf4e1e8eac3fa",
+        "userId": "67435419919f23caa5e5a8b1",
+        "content": "hi i am asking for the due date",
+        "timestamp": "2024-11-30T16:03:30.411Z",
+        "replies": []
+      },
+      {
+        "_id": "674b380e81bbf4e1e8eac400",
+        "userId": "67435419919f23caa5e5a8b1",
+        "content": "hi i am asking for the due date",
+        "timestamp": "2024-11-30T16:06:38.161Z",
+        "replies": []
+      }
+    ],
+    "createdAt": "2024-11-30T15:42:50.755Z",
+    "updatedAt": "2024-11-30T16:06:38.170Z",
+    "__v": 10
+  }
+]

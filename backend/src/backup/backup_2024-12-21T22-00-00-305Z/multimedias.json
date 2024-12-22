@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "67644ec075595dc362af2ba8",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "description": "lec 1 introduction for computer networks and its protocols",
+    "title": "lec1",
+    "type": "pdf",
+    "driveURL": "https://drive.google.com/file/d/16yRFzyFsnaywrmWXGn4G45KthLb2yLPg/view?usp=drive_link",
+    "rate": 5,
+    "createdAt": "2024-12-19T16:50:08.202Z",
+    "updatedAt": "2024-12-19T16:50:08.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "67644f1975595dc362af2baa",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "description": "lec1 vedio a bref introduction for networking",
+    "title": "lec1",
+    "type": "video",
+    "driveURL": "https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi",
+    "rate": 4,
+    "createdAt": "2024-12-19T16:51:37.022Z",
+    "updatedAt": "2024-12-19T16:51:37.022Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767107363145a8ec35863c0",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "description": "lec 3 vedio",
+    "title": "Lec3",
+    "type": "video",
+    "driveURL": "https://www.youtube.com/watch?v=E5bSumTAHZE",
+    "rate": 3,
+    "createdAt": "2024-12-21T19:01:07.776Z",
+    "updatedAt": "2024-12-21T19:01:07.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767131c2738ac6480d1832a",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "description": "lec 3 vedio",
+    "title": "lec3",
+    "type": "video",
+    "driveURL": "https://www.youtube.com/watch?v=E5bSumTAHZE",
+    "rate": 3,
+    "createdAt": "2024-12-21T19:12:28.407Z",
+    "updatedAt": "2024-12-21T19:12:28.407Z",
+    "__v": 0
+  },
+  {
+    "_id": "6767145f92a1d68baf4e9efd",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "description": "lec3 vedio",
+    "title": "lec3",
+    "type": "video",
+    "driveURL": "https://www.youtube.com/watch?v=E5bSumTAHZE",
+    "rate": 3,
+    "createdAt": "2024-12-21T19:17:51.962Z",
+    "updatedAt": "2024-12-21T19:17:51.962Z",
+    "__v": 0
+  },
+  {
+    "_id": "676714da53e8d72804227157",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "description": "lec 3 vedio",
+    "title": "lec3",
+    "type": "video",
+    "driveURL": "https://www.youtube.com/watch?v=E5bSumTAHZE",
+    "rate": 3,
+    "createdAt": "2024-12-21T19:19:54.407Z",
+    "updatedAt": "2024-12-21T19:19:54.407Z",
+    "__v": 0
+  }
+]

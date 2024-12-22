@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "674b375281bbf4e1e8eac3fd",
+    "recipientId": "67436373dcf6c8d06a9fce25",
+    "message": "New post in forum: assignemnt1",
+    "isRead": false,
+    "forumId": "674b32002e65ef1177ebea1d",
+    "postId": "674b375281bbf4e1e8eac3fa",
+    "createdAt": "2024-11-30T16:03:30.521Z",
+    "updatedAt": "2024-11-30T16:03:30.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "674b380e81bbf4e1e8eac403",
+    "recipientId": "67436373dcf6c8d06a9fce25",
+    "message": "New post in forum: assignemnt1",
+    "isRead": false,
+    "forumId": "674b32002e65ef1177ebea1d",
+    "postId": "674b380e81bbf4e1e8eac400",
+    "createdAt": "2024-11-30T16:06:38.191Z",
+    "updatedAt": "2024-11-30T16:06:38.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "674b380e81bbf4e1e8eac405",
+    "recipientId": "6748c19a3d6c3711b3525528",
+    "message": "New post in forum: assignemnt1",
+    "isRead": false,
+    "forumId": "674b32002e65ef1177ebea1d",
+    "postId": "674b380e81bbf4e1e8eac400",
+    "createdAt": "2024-11-30T16:06:38.202Z",
+    "updatedAt": "2024-11-30T16:06:38.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765d8e5bf391e3633711f21",
+    "recipientId": "6760b12f72434b9aeb92a5c2",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765d8e5bf391e3633711f1e",
+    "createdAt": "2024-12-20T20:51:49.625Z",
+    "updatedAt": "2024-12-20T20:51:49.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765d8e5bf391e3633711f23",
+    "recipientId": "6760908996808e37a055ef8b",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765d8e5bf391e3633711f1e",
+    "createdAt": "2024-12-20T20:51:49.628Z",
+    "updatedAt": "2024-12-20T20:51:49.628Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765d8e5bf391e3633711f25",
+    "recipientId": "6763325e6fe351ff17b484d4",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765d8e5bf391e3633711f1e",
+    "createdAt": "2024-12-20T20:51:49.631Z",
+    "updatedAt": "2024-12-20T20:51:49.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765dde668e31f1d09135c11",
+    "recipientId": "6760b12f72434b9aeb92a5c2",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765dde668e31f1d09135c0e",
+    "createdAt": "2024-12-20T21:13:10.365Z",
+    "updatedAt": "2024-12-20T21:13:10.365Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765dde668e31f1d09135c13",
+    "recipientId": "6760908996808e37a055ef8b",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765dde668e31f1d09135c0e",
+    "createdAt": "2024-12-20T21:13:10.368Z",
+    "updatedAt": "2024-12-20T21:13:10.368Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765dde668e31f1d09135c15",
+    "recipientId": "6763325e6fe351ff17b484d4",
+    "message": "New post in forum: Assignment1",
+    "isRead": true,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765dde668e31f1d09135c0e",
+    "createdAt": "2024-12-20T21:13:10.370Z",
+    "updatedAt": "2024-12-20T22:32:24.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765deaa68e31f1d09135c3f",
+    "recipientId": "6760b12f72434b9aeb92a5c2",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765deaa68e31f1d09135c3c",
+    "createdAt": "2024-12-20T21:16:26.032Z",
+    "updatedAt": "2024-12-20T21:16:26.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765deaa68e31f1d09135c41",
+    "recipientId": "6760908996808e37a055ef8b",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765deaa68e31f1d09135c3c",
+    "createdAt": "2024-12-20T21:16:26.036Z",
+    "updatedAt": "2024-12-20T21:16:26.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765deaa68e31f1d09135c43",
+    "recipientId": "6763325e6fe351ff17b484d4",
+    "message": "New post in forum: Assignment1",
+    "isRead": true,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765deaa68e31f1d09135c3c",
+    "createdAt": "2024-12-20T21:16:26.039Z",
+    "updatedAt": "2024-12-20T22:18:03.377Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765e2968c7ae184e1c2e23f",
+    "recipientId": "6760b12f72434b9aeb92a5c2",
+    "message": "New reply in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3dc5e33823458cb68d4",
+    "createdAt": "2024-12-20T21:33:10.994Z",
+    "updatedAt": "2024-12-20T21:33:10.994Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765e2968c7ae184e1c2e241",
+    "recipientId": "6760908996808e37a055ef8b",
+    "message": "New reply in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3dc5e33823458cb68d4",
+    "createdAt": "2024-12-20T21:33:10.996Z",
+    "updatedAt": "2024-12-20T21:33:10.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765e2968c7ae184e1c2e243",
+    "recipientId": "6763325e6fe351ff17b484d4",
+    "message": "New reply in forum: Assignment1",
+    "isRead": true,
+    "forumId": "6748d3dc5e33823458cb68d4",
+    "createdAt": "2024-12-20T21:33:10.997Z",
+    "updatedAt": "2024-12-20T22:17:58.560Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765f0b3312bb4aebccc85f4",
+    "recipientId": "6760b12f72434b9aeb92a5c2",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765f0b3312bb4aebccc85f1",
+    "createdAt": "2024-12-20T22:33:23.033Z",
+    "updatedAt": "2024-12-20T22:33:23.033Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765f0b3312bb4aebccc85f6",
+    "recipientId": "6760908996808e37a055ef8b",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765f0b3312bb4aebccc85f1",
+    "createdAt": "2024-12-20T22:33:23.035Z",
+    "updatedAt": "2024-12-20T22:33:23.035Z",
+    "__v": 0
+  },
+  {
+    "_id": "6765f0b3312bb4aebccc85f8",
+    "recipientId": "6763325e6fe351ff17b484d4",
+    "message": "New post in forum: Assignment1",
+    "isRead": false,
+    "forumId": "6748d3045e33823458cb68d0",
+    "postId": "6765f0b3312bb4aebccc85f1",
+    "createdAt": "2024-12-20T22:33:23.036Z",
+    "updatedAt": "2024-12-20T22:33:23.036Z",
+    "__v": 0
+  }
+]

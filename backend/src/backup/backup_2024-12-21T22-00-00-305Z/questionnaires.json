@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "674b62c770e7bba535d1950b",
+    "studentId": "67435419919f23caa5e5a8b1",
+    "department": "Computer Science",
+    "preferredCourse": "Advanced Programming",
+    "grade": "A",
+    "completionStatus": "completed",
+    "progPreferred": "yes",
+    "mathPreferred": "no",
+    "gpa": 3.5,
+    "engagementTrends": "Low",
+    "completionRate": 50,
+    "createdAt": "2024-11-30T19:08:55.468Z",
+    "updatedAt": "2024-11-30T19:08:55.468Z",
+    "__v": 0
+  },
+  {
+    "_id": "674b66f6ae2bbb269e842872",
+    "studentId": 12345,
+    "department": "Computer Science",
+    "preferredCourse": "Advanced Programming",
+    "grade": "A",
+    "completionStatus": "completed",
+    "progPreferred": "yes",
+    "mathPreferred": "no",
+    "gpa": 3.5,
+    "engagementTrends": "Low",
+    "completionRate": 50,
+    "createdAt": "2024-11-30T19:26:46.409Z",
+    "updatedAt": "2024-11-30T19:26:46.409Z",
+    "__v": 0
+  }
+]

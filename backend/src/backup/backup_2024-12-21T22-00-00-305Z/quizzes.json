@@ -1,0 +1,270 @@
+[
+  {
+    "_id": "6765a8511e63cbb9c3ad3b1a",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "title": "Quiz 1",
+    "description": "An MCQ quiz for chapter 1",
+    "numOfQuestions": 3,
+    "status": "Available",
+    "easyQuestions": [
+      {
+        "question": "What is TCP",
+        "options": [
+          "A protocol",
+          "A suit",
+          "A model",
+          "None of the above"
+        ],
+        "correctAnswer": "A protocol"
+      },
+      {
+        "question": "What is the name of the data at network layer?",
+        "options": [
+          "Segment",
+          "User datagrame",
+          "Datagrame",
+          "Frame"
+        ],
+        "correctAnswer": "Datagrame"
+      }
+    ],
+    "mediumQuestions": [
+      {
+        "question": "Which of the following protocols is used for email services?",
+        "options": [
+          "SMTP",
+          "FTP",
+          "HTTP",
+          "IMAP"
+        ],
+        "correctAnswer": "SMTP"
+      },
+      {
+        "question": "What does a subnet mask do in a network?",
+        "options": [
+          "Defines the gateway",
+          "Determines the host ID and network ID",
+          "Specifies the MAC address",
+          "Controls data speed"
+        ],
+        "correctAnswer": "Determines the host ID and network ID"
+      }
+    ],
+    "hardQuestions": [
+      {
+        "question": "What is the main function of a DNS server?",
+        "options": [
+          "Routes traffic on a network",
+          "Translates domain names to IP addresses",
+          "Manages the ARP table",
+          "Encrypts HTTP traffic"
+        ],
+        "correctAnswer": "Translates domain names to IP addresses"
+      },
+      {
+        "question": "Which protocol is used for error reporting in IP communication?",
+        "options": [
+          "ICMP",
+          "ARP",
+          "RARP",
+          "UDP"
+        ],
+        "correctAnswer": "ICMP"
+      }
+    ],
+    "createdAt": "2024-12-20T17:24:33.805Z",
+    "updatedAt": "2024-12-20T18:49:18.011Z",
+    "__v": 11,
+    "grades": [
+      {
+        "studentId": "123456",
+        "grade": 67
+      }
+    ]
+  },
+  {
+    "_id": "6765a8741e63cbb9c3ad3b1c",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "title": "Quiz 2",
+    "description": "An MCQ quiz for chapter 2",
+    "numOfQuestions": 3,
+    "status": "Available",
+    "easyQuestions": [
+      {
+        "question": "What is TCP",
+        "options": [
+          "A protocol",
+          "A suit",
+          "A model",
+          "None of the above"
+        ],
+        "correctAnswer": "A protocol"
+      },
+      {
+        "question": "What is the name of the data at network layer?",
+        "options": [
+          "Segment",
+          "User datagrame",
+          "Datagrame",
+          "Frame"
+        ],
+        "correctAnswer": "Datagrame"
+      }
+    ],
+    "mediumQuestions": [
+      {
+        "question": "Which of the following protocols is used for email services?",
+        "options": [
+          "SMTP",
+          "FTP",
+          "HTTP",
+          "IMAP"
+        ],
+        "correctAnswer": "SMTP"
+      },
+      {
+        "question": "What does a subnet mask do in a network?",
+        "options": [
+          "Defines the gateway",
+          "Determines the host ID and network ID",
+          "Specifies the MAC address",
+          "Controls data speed"
+        ],
+        "correctAnswer": "Determines the host ID and network ID"
+      }
+    ],
+    "hardQuestions": [
+      {
+        "question": "What is the main function of a DNS server?",
+        "options": [
+          "Routes traffic on a network",
+          "Translates domain names to IP addresses",
+          "Manages the ARP table",
+          "Encrypts HTTP traffic"
+        ],
+        "correctAnswer": "Translates domain names to IP addresses"
+      },
+      {
+        "question": "Which protocol is used for error reporting in IP communication?",
+        "options": [
+          "ICMP",
+          "ARP",
+          "RARP",
+          "UDP"
+        ],
+        "correctAnswer": "ICMP"
+      }
+    ],
+    "grades": [
+      {
+        "studentId": "123456",
+        "grade": 33
+      }
+    ],
+    "createdAt": "2024-12-20T17:25:08.937Z",
+    "updatedAt": "2024-12-20T18:49:49.143Z",
+    "__v": 12
+  },
+  {
+    "_id": "6767205227898b62a6979eca",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "title": "quiz 3",
+    "description": "jhkjhskj ksjhkajsh khskjahd",
+    "numOfQuestions": 3,
+    "status": "Not available",
+    "easyQuestions": [
+      {
+        "question": "jkshkjashdkj",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "correctAnswer": "a",
+        "difficulty": 1
+      }
+    ],
+    "mediumQuestions": [
+      {
+        "question": "jdlasjdask lkjdlsdjsa ljslkjsald",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "correctAnswer": "b",
+        "difficulty": 3
+      }
+    ],
+    "hardQuestions": [
+      {
+        "question": "djwqlj o8wuoqwue ouweoqiw",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "correctAnswer": "c",
+        "difficulty": 5
+      }
+    ],
+    "grades": [],
+    "createdAt": "2024-12-21T20:08:50.505Z",
+    "updatedAt": "2024-12-21T20:08:50.505Z",
+    "__v": 0
+  },
+  {
+    "_id": "676723217af68a54912e9eb2",
+    "courseId": "6762f8b6e8e5ff606e583619",
+    "title": "Quiz 3",
+    "description": "jkjkhd khdsk kjdshksd",
+    "numOfQuestions": 3,
+    "status": "Available",
+    "easyQuestions": [
+      {
+        "question": "ssadas",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "correctAnswer": "a",
+        "difficulty": 1
+      }
+    ],
+    "mediumQuestions": [
+      {
+        "question": "saas sasadas",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "s"
+        ],
+        "correctAnswer": "s",
+        "difficulty": 3
+      }
+    ],
+    "hardQuestions": [
+      {
+        "question": "sassd sasasa sdsadsa",
+        "options": [
+          "q",
+          "w",
+          "e",
+          "d"
+        ],
+        "correctAnswer": "q",
+        "difficulty": 5
+      }
+    ],
+    "grades": [],
+    "createdAt": "2024-12-21T20:20:49.422Z",
+    "updatedAt": "2024-12-21T20:20:49.422Z",
+    "__v": 0
+  }
+]

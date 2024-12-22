@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "6741f1355b3bda308b6e295d",
+    "title": "String",
+    "description": "String",
+    "instructorId": "ObjectId",
+    "studentsEnrolled": [
+      "ObjectId"
+    ],
+    "multimediaIds": [
+      "ObjectId"
+    ],
+    "createdAt": "Date",
+    "updatedAt": "Date"
+  },
+  {
+    "_id": "674361e247d86f541240a163",
+    "title": "cs",
+    "description": "cs",
+    "instructorId": "cs",
+    "studentsEnrolled": [],
+    "multimediaIds": [],
+    "completed": false,
+    "createdAt": "2024-11-24T17:26:58.360Z",
+    "updatedAt": "2024-11-24T17:26:58.360Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "6741f3e85b3bda308b6e296b",
+    "courseId": "ObjectId",
+    "topic": "String",
+    "posts": [
+      {
+        "userId": "ObjectId",
+        "content": "String",
+        "timestamp": "Date",
+        "replies": [
+          {
+            "userId": "ObjectId",
+            "content": "String",
+            "timestamp": "Date"
+          }
+        ]
+      }
+    ],
+    "createdAt": "Date",
+    "updatedAt": "Date"
+  }
+]

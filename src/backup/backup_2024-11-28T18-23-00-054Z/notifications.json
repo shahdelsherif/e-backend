@@ -1,0 +1,9 @@
+[
+  {
+    "_id": "6741f43a5b3bda308b6e296d",
+    "userId": "ObjectId",
+    "content": "String",
+    "isRead": "Boolean",
+    "timestamp": "Date"
+  }
+]
